@@ -218,9 +218,6 @@ hr{
   border: red solid 1px;
   border-radius: 10px;
 }
-.submit #text{
-  height: 200px;
-}
 footer{
   text-align: center;
   height: 30px;
