@@ -218,6 +218,9 @@ hr{
   border: red solid 1px;
   border-radius: 10px;
 }
+textarea{
+  height :100px;
+}
 footer{
   text-align: center;
   height: 30px;
